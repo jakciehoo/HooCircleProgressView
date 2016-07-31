@@ -17,7 +17,7 @@
 		B87D91AC1D4E1C17000A4CAF /* HooCircleProgressViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B87D91AB1D4E1C17000A4CAF /* HooCircleProgressViewUITests.m */; };
 		B87D91BC1D4E1C96000A4CAF /* HooCircleProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = B87D91BB1D4E1C96000A4CAF /* HooCircleProgressView.m */; };
 		B87D91BF1D4E1E35000A4CAF /* HooCircleGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = B87D91BE1D4E1E35000A4CAF /* HooCircleGradientLayer.m */; };
-		B87D91C11D4E302D000A4CAF /* Simulator Screen Shot 2016年7月31日 21.09.47.png in Resources */ = {isa = PBXBuildFile; fileRef = B87D91C01D4E302D000A4CAF /* Simulator Screen Shot 2016年7月31日 21.09.47.png */; };
+		B87D91C11D4E302D000A4CAF /* HooCircleProgressViewDemo.png in Resources */ = {isa = PBXBuildFile; fileRef = B87D91C01D4E302D000A4CAF /* HooCircleProgressViewDemo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,7 +58,7 @@
 		B87D91BB1D4E1C96000A4CAF /* HooCircleProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HooCircleProgressView.m; sourceTree = "<group>"; };
 		B87D91BD1D4E1E35000A4CAF /* HooCircleGradientLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HooCircleGradientLayer.h; sourceTree = "<group>"; };
 		B87D91BE1D4E1E35000A4CAF /* HooCircleGradientLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HooCircleGradientLayer.m; sourceTree = "<group>"; };
-		B87D91C01D4E302D000A4CAF /* Simulator Screen Shot 2016年7月31日 21.09.47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot 2016年7月31日 21.09.47.png"; sourceTree = "<group>"; };
+		B87D91C01D4E302D000A4CAF /* HooCircleProgressViewDemo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HooCircleProgressViewDemo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,7 +126,7 @@
 		B87D91861D4E1C17000A4CAF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				B87D91C01D4E302D000A4CAF /* Simulator Screen Shot 2016年7月31日 21.09.47.png */,
+				B87D91C01D4E302D000A4CAF /* HooCircleProgressViewDemo.png */,
 				B87D91871D4E1C17000A4CAF /* main.m */,
 			);
 			name = "Supporting Files";
@@ -266,7 +266,7 @@
 			files = (
 				B87D91961D4E1C17000A4CAF /* LaunchScreen.storyboard in Resources */,
 				B87D91931D4E1C17000A4CAF /* Assets.xcassets in Resources */,
-				B87D91C11D4E302D000A4CAF /* Simulator Screen Shot 2016年7月31日 21.09.47.png in Resources */,
+				B87D91C11D4E302D000A4CAF /* HooCircleProgressViewDemo.png in Resources */,
 				B87D91911D4E1C17000A4CAF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
