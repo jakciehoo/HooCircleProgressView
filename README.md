@@ -12,7 +12,7 @@ A circular gradient progress view implementation for iOS with efficient drawing 
 `HooCircleProgressView Demo picture:`
 
 
-![HooCircleProgressView Demo](https://github.com/jakciehoo/HooCircleProgressView/blob/master/HooCircleProgressView/Simulator%20Screen%20Shot%202016%E5%B9%B47%E6%9C%8831%E6%97%A5%2021.09.47.jpg)
+![HooCircleProgressView Demo](https://github.com/jakciehoo/HooCircleProgressView/blob/master/HooCircleProgressView/HooCircleProgressViewDemo.jpg)
 
 ## 下载地址链接:[HooCircleProgressView](https://github.com/jakciehoo/HooCircleProgressView)
 
